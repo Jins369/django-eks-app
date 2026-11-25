@@ -1,1 +1,8 @@
-
+_pycache_/
+*.pyc
+*.pyo
+.git/
+k8s/
+venv/
+.venv/
+db.sqlite3
